@@ -10,7 +10,7 @@ const members = [
     id: 2,
     name: "Deco Zahraan Saputra",
     nim: "NIM: 101032400150",
-    initials: "DCS",
+    initials: "DZS",
     avatarClass: "av-teal"
   },
   {
